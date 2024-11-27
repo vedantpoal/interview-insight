@@ -1,0 +1,6 @@
+opencv-contrib-python==4.10.0
+speechrecognition==3.8.1
+deepface==0.0.79
+language-tool-python==2.7.1
+streamlit==1.26.0
+numpy==1.24.0
